@@ -9,10 +9,10 @@
 - 🌱 Desarrollo aplicaciones basadas en **Microservicios**.
 - 🚀 Apasionado por la creación de **aplicaciones escalables**.
 - 🛠️ Trabajo en la **optimización de procesos** y rendimiento.
-- 📫 **francotaypedev@gmail.com**.
-- 🌐 Conéctame en [LinkedIn](https://www.linkedin.com/in/franco-taype/).
+- 📫 <a href="mailto:francotaypedev@gmail.com" target="_blank">francotaypedev@gmail.com</a>.
+- 🌐 Conéctame en <a href="https://www.linkedin.com/in/franco-taype/" target="_blank">LinkedIn</a>.
 
-
+<br/>
 ## Mis Habilidades
 
 <table><tr><td valign="top" width="33%">
@@ -70,15 +70,20 @@
     </tr>
   </table>
 </p>
+<br/>
 
 ## Contactame
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/franco-taype/" target="blank"><img align="center" src="https://www.cdnlogo.com/logos/l/78/linkedin-icon.svg" alt="linkedin" height="45" width="45" /></a>
-  <a href="mailto:francotaypedev@gmail.com" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-gmail-2981844-2476484.png?f=webp&w=256" style="width:45px; height:45px;"></a>
+  <a href="https://www.linkedin.com/in/franco-taype/" target="_blank">
+    <img align="center" src="https://www.cdnlogo.com/logos/l/78/linkedin-icon.svg" alt="linkedin" height="45" width="45" />
+  </a>
+  <a href="mailto:francotaypedev@gmail.com" target="_blank">
+    <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-gmail-2981844-2476484.png?f=webp&w=256" style="width:45px; height:45px;">
+  </a>
 </p>
 
 <!-- Contador de visitas -->
+<br/>
 <p align="center">
   <img src="https://profile-counter.glitch.me/tuusuario/count.svg" />
 </p>
